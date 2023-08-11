@@ -1,7 +1,7 @@
 
 #Only one allowed
 webhook:
-    link: 
+    link: "https://teams-webhook.com"
 
 #ScanInterval
 interval:
