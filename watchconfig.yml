@@ -9,7 +9,7 @@ interval:
 
 #Folders to watch, number of entries must be the same (3 folders, 3 colors)
 watch:
-    #Remember do escape windows paths -> \\
+    #Remember to escape windows paths -> \\
     folders:    
         - "C:\\"
         - "/home/pi"
